@@ -1,6 +1,6 @@
 # [Currency Recognition](http://carlosmccosta.github.io/Currency-Recognition/)
 
-
+#This is an amazing project on detection and recognition of euro notes.
 ## Overview
 This project focus on the detection and recognition of Euro banknotes and has the following associated resources:
 
